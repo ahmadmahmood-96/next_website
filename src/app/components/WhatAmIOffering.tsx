@@ -16,13 +16,13 @@ const WhatAmIOffering = () => {
                         programs holding the <strong>record for the best student results</strong> in the industry.<br/><br/>And if I want to keep this record...<br/><br/>I need to work with people that I know I can help.<br/><br/>That&#x27;s why my flagship
                         program, Agency Navigator, is priced at $1,500.<br/><br/>Because, realistically, if you haven&#x27;t made your first $1,500- you&#x27;ll struggle to go all the way from 0 to $10,000/month.<br/><br/>And to be completely transparent
                         with you…<br/><br/>Agency Navigator is where I <strong>really</strong> make money with Educate.<br/><br/>So if my objective is to make the most money…<br/><br/>I need to get as many people as possible to be able to afford these $1,500.<br/><br/>And
-                        I know that for the vast majority of my audience, that price is beyond reach.<br/><br/>And that&#x27;s why I created Digital Launchpad.<br/><br/>Here&#x27;s the deal:<br/><br/>‍<strong>I don&#x27;t want to make ANY money with this program.<br/><br/>‍</strong>I
-                        just want this to be accessible to <strong>EVERYONE…<br/><br/>‍</strong>So that as many people as possible can make their first $1,000 online and be able to afford Agency Navigator.<br/><br/>That&#x27;s my secret motive behind Digital
+                        I know that for the vast majority of my audience, that price is beyond reach.<br/><br/>And that&#x27;s why I created Digital Launchpad.<br/><br/>Here&#x27;s the deal:<br/><br/>‍<strong>I don&#x27;t want to make ANY money with this program.<br/><br/></strong>I
+                        just want this to be accessible to <strong>EVERYONE…<br/><br/></strong>So that as many people as possible can make their first $1,000 online and be able to afford Agency Navigator.<br/><br/>That&#x27;s my secret motive behind Digital
                         Launchpad.</p>
                 </div>
             </div>
             <div className="hero-cta-div-4-light sales-page">
-                <a href="#Price" className="button-6 digital-launchpad w-button">SAVE MY SPOT NOW</a>
+                <a href="#Price" className="button-6 digital-launchpad w-button">SAVE MY SPOT NOW</a>
                 <p className="confirmation-text-3"><em className="italic-text-2 light">You&#x27;ll get redirected to our student platform to complete your checkout.</em></p>
             </div>
         </section>

@@ -9,6 +9,7 @@ import "./styles/my_objective.css"
 import "./styles/three_best_path.css"
 import "./styles/exclusive_bonus.css"
 import "./styles/whats_inside.css"
+import "./styles/footer.css"
 
 
 export const metadata: Metadata = {

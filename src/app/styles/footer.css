@@ -1,0 +1,623 @@
+#w-node-_96527aae-a5fe-1127-997c-2db33fd56cc6-cff0ff6b {
+    grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+.container-40 {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.hero-wrapper-two {
+    text-align: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+}
+
+.hero-wrapper-two.faq {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.rich-text-block {
+    color: #dbdbdb;
+    text-align: left;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.rich-text-block.faq-at-the-end {
+    margin-top: -18px;
+}
+
+.accordion-tabs---brix {
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.accordion-tabs---brix.preview-page {
+    margin-top: 20px;
+}
+
+.w-tabs {
+    position: relative;
+}
+
+.w-tabs:before,
+.w-tabs:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+
+.w-tabs:after {
+    clear: both;
+}
+
+.accordion-tabs-menu---brix-2 {
+    margin-bottom: 0;
+    font-family: Montserrat, sans-serif;
+    display: flex;
+}
+
+.w-tab-menu {
+    position: relative;
+}
+
+.tab-button---brix-2 {
+    color: #6f6c90;
+    text-align: center;
+    letter-spacing: -.01em;
+    background-color: #fff0;
+    border: 1px #d9dbe936;
+    border-bottom-style: solid;
+    border-radius: 0;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding: 10px 48px;
+    font-size: 20px;
+    line-height: 1.4;
+    transition: box-shadow .2s, background-color .2s, color .2s, border-color .2s;
+    display: block;
+}
+
+.tab-button---brix-2:hover {
+    border-color: #006eff #006eff var(--neon-red);
+    box-shadow: 0 4px 12px -6px #4a3aff3d;
+}
+
+.tab-button---brix-2.w--current {
+    color: #fff;
+    background-color: #26262600;
+    background-image: none;
+    border-style: none none solid;
+    border-color: #cacaca;
+    font-weight: 500;
+}
+
+.w-tab-link {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    text-decoration: none;
+    padding: 9px 30px;
+    text-align: left;
+    cursor: pointer;
+    color: #222222;
+    background-color: #dddddd;
+}
+
+.w-tab-link.w--current {
+    background-color: #C8C8C8;
+}
+
+.w-tab-link:focus {
+    outline: 0;
+}
+
+.text-block-4 {
+    color: #fff;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    font-family: Oswald, sans-serif;
+    font-size: 1.1rem;
+}
+
+.w-inline-block {
+    max-width: 100%;
+    display: inline-block;
+}
+
+.tabs-container---brix-2 {
+    padding: 20px;
+    overflow: visible;
+}
+
+.w-tab-content {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.tab---brix-2 {
+    background-image: none;
+    border: 1px #ffffff1f;
+    border-radius: 20px;
+    padding: 0;
+}
+
+.w-tab-pane {
+    position: relative;
+    display: none;
+}
+
+.w--tab-active {
+    display: block;
+}
+
+.accordion-item-wrapper---brix {
+    max-width: 886px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.accordion-item-wrapper---brix.tabs-accordion---brix {
+    background-color: #bfbfe200;
+    border: 2px #fff;
+    border-radius: 17px;
+    max-width: 700px;
+    padding: 20px 90px;
+    font-family: Montserrat, sans-serif;
+    box-shadow: 0 5px 16px #080f340f;
+}
+
+.accordion-item-wrapper---brix.tabs-accordion---brix.bottom {
+    max-width: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.accordion-item---brix {
+    cursor: pointer;
+    background-color: #fff;
+    border-radius: 14px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    padding: 40px;
+    display: flex;
+}
+
+.accordion-item---brix.tabs-accordion---brix {
+    z-index: 99999999;
+    background-color: #fff0;
+    border-bottom: 1px solid #6b6b6b;
+    border-radius: 0;
+    padding-left: 0;
+    padding-right: 0;
+    transition: padding .2s;
+    position: relative;
+}
+
+.accordion-item---brix.tabs-accordion---brix.last-accordion-item---brix {
+    border-bottom-style: none;
+}
+
+.accordion-item---brix.tabs-accordion---brix.bottom {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.accordion-item---brix.tabs-accordion---brix.bottom:hover {
+    padding-left: 0;
+}
+
+.accordion-item---brix.tabs-accordion---brix {
+    z-index: 99999999;
+    background-color: #fff0;
+    border-bottom: 1px solid #6b6b6b;
+    border-radius: 0;
+    padding: 20px 0;
+    transition-property: none;
+    position: relative;
+}
+
+.accordion-item---brix.tabs-accordion---brix:hover {
+    padding-left: 0;
+}
+
+.accordion-item---brix.tabs-accordion---brix.last {
+    border-bottom-style: none;
+}
+
+.accordion-trigger---brix-2 {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.accordion-item-title---brix {
+    color: #fff;
+    letter-spacing: 0;
+    text-transform: none;
+    font-family: Inter, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: start;
+}
+
+.open-close-icon-wrapper---brix {
+    flex: none;
+    justify-content: center;
+    align-items: start;
+    width: 14px;
+    min-height: 14px;
+    display: flex;
+    position: relative;
+}
+
+.open-close-line---brix {
+    background-color: #fff;
+    border-radius: 500px;
+    width: 100%;
+    height: 2px;
+    position: absolute;
+}
+
+.open-close-line---brix.second-line---brix {
+    background-color: #fff;
+    transform: rotate(90deg);
+}
+
+.accordion-content---brix-2 {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    overflow: hidden;
+}
+
+.accordion-paragraph---brix {
+    color: #bdbdbd;
+    letter-spacing: .05px;
+    width: 100%;
+    max-width: 90%;
+    margin-top: 18px;
+    margin-bottom: 0;
+    font-family: Inter, sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    text-align: start;
+}
+
+.footer {
+    color: #000;
+    background-color: #0000;
+    padding-top: 3.75rem;
+    padding-bottom: 1.25rem;
+}
+
+.container-19 {
+    flex-direction: column;
+    align-items: center;
+    font-family: Inter, sans-serif;
+    display: flex;
+}
+
+.w-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 940px;
+}
+
+.w-container:before,
+.w-container:after {
+    content: " ";
+    display: table;
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-column-end: 2;
+    grid-row-end: 2;
+}
+
+.w-container:after {
+    clear: both;
+}
+
+.w-container .w-row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.footer-links {
+    color: #e2e2e2;
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: .75rem;
+    font-weight: 300;
+}
+
+.link-footer {
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+.footer-text {
+    color: #d4d4d4;
+    text-align: center;
+    margin-top: 1.25rem;
+    font-size: .75rem;
+    font-weight: 300;
+}
+.image-66 {
+    width: 12%;
+    max-width: none;
+}
+
+@media screen and (min-width: 1920px) {
+    .container-40 {
+        max-width: 1300px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    
+    .container-40 {
+        max-width: 1100px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+
+    .w-container {
+        max-width: 728px;
+    }
+
+    .accordion-paragraph---brix {
+        max-width: 100%;
+    }
+
+    .accordion-item-title---brix {
+        max-width: 88%;
+    }
+
+    .accordion-item-wrapper---brix.tabs-accordion---brix {
+        padding: 32px 64px;
+    }
+
+    .tabs-container---brix-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .faq-2024 {
+        margin-left: 2.5rem;
+        margin-right: 2.5rem;
+    }
+
+    .rich-text-block {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .container-40 {
+        max-width: 955%;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+
+    .footer-text {
+        font-size: .6875rem;
+        line-height: 1rem;
+    }
+
+    .footer-links {
+        font-size: .6875rem;
+    }
+
+    .w-container .w-row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container-19 {
+        padding-left: .625rem;
+        padding-right: .625rem;
+    }
+
+    .accordion-paragraph---brix {
+        max-width: 100%;
+        font-size: 16px;
+        line-height: 1.6;
+    }
+
+    .accordion-item-title---brix {
+        max-width: 80%;
+        font-size: 18px;
+    }
+
+    .accordion-item-wrapper---brix.tabs-accordion---brix {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 32px;
+    }
+
+    .tabs-container---brix-2 {
+        width: 100%;
+        padding: 16px 40px;
+    }
+    .tabs-container---brix-2.faq {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .tab-button---brix-2 {
+        width: 100%;
+        max-width: 240px;
+        margin: 4px auto;
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 18px;
+    }
+    .tab-button---brix-2.w--current {
+        display: block;
+    }
+
+    .accordion-tabs-menu---brix-2 {
+        grid-column-gap: 30px;
+        grid-row-gap: 30px;
+        flex-direction: row;
+        align-items: stretch;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 16px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .hero-wrapper-two {
+        margin-bottom: -44px;
+    }
+
+    .container-40 {
+        max-width: none;
+    }
+}
+
+@media screen and (max-width: 479px) {
+
+    .footer-text {
+        font-size: .625rem;
+        line-height: .9375rem;
+    }
+
+    .footer-links {
+        font-size: .6875rem;
+    }
+
+    .w-container {
+        max-width: none;
+    }
+
+    .container-19 {
+        padding-left: .3125rem;
+        padding-right: .3125rem;
+    }
+
+    .accordion-paragraph---brix {
+        max-width: 100%;
+        font-size: 15px;
+    }
+
+    .open-close-icon-wrapper---brix {
+        margin-right: 16px;
+    }
+
+    .accordion-item-title---brix {
+        max-width: 70%;
+        font-size: 18px;
+    }
+
+    .accordion-item---brix.tabs-accordion---brix {
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+
+    .accordion-item-wrapper---brix.tabs-accordion---brix {
+        padding: 0 24px;
+    }
+
+    .tabs-container---brix-2 {
+        margin-top: 24px;
+        padding: 0;
+        overflow: visible;
+    }
+
+    .w-tab-link {
+        display: block;
+    }
+
+    .tab-button---brix-2 {
+        text-align: center;
+        width: 100%;
+        max-width: 65%;
+        margin: 4px auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .tab-button---brix-2:hover {
+        border-bottom-color: var(--neon-red);
+    }
+    .tab-button---brix-2.w--current {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .accordion-tabs-menu---brix-2 {
+        grid-column-gap: 6px;
+        grid-row-gap: 6px;
+        flex-direction: row;
+        width: 100%;
+        margin-bottom: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+    .accordion-tabs---brix.preview-page {
+        width: 100%;
+        padding-left: 0;
+        padding-right: 0;
+    }   
+
+    .faq-2024 {
+        width: 100%;
+    }
+
+    .questions {
+        text-align: center;
+    }
+
+    .rich-text-block {
+        text-align: left;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .hero-wrapper-two {
+        max-width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .container-40 {
+        max-width: none;
+    }
+}
+
+
+
