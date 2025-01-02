@@ -19,7 +19,7 @@ const HeroComponent = () => {
                 <h1 className="heading-67 hero">
                   <strong>
                     24-Year-Old Multi-Millionaire Goes Rogue And Reveals His Secret{" "}
-                    <em>"Online Income System"</em> Just To Prove Anyone Can Make
+                    <em>&quot;Online Income System&quot;</em> Just To Prove Anyone Can Make
                     Their First $1,000 Online With It.
                   </strong>
                 </h1>
